@@ -8,10 +8,10 @@ This Jupyter Notebook aims to analyze the applicant data for the SAP Educate to 
 The intended audience for this notebook includes stakeholders from ACN, SAP, Yoma, and UNICEF, as well as any other parties interested in understanding the demographics and characteristics of the applicants.
 
 ## Key Questions
-What is the gender distribution among the applicants?
-What is the age range of the applicants?
-What are the nationalities of the applicants?
-How are applicants distributed across focus countries?
+* What is the gender distribution among the applicants?
+* What is the age range of the applicants?
+* What are the nationalities of the applicants?
+* How are applicants distributed across focus countries?
 
 ## Data Preparation
 Data Import: Utilizes pandas for data manipulation and google.colab for file I/O. Data Cleaning: Employs Python's standard libraries along with pandas to clean and prepare the data. Special attention is paid to standardizing unique entries, especially in geographical information.
